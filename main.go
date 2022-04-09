@@ -20,7 +20,7 @@ func main() {
 		{
 			Name:        "MODERATOR",
 			Description: "Moderator",
-			Level:       2,
+			Level:       5,
 		},
 
 		{
